@@ -1,1 +1,22 @@
-This is the test changelog for first time.
+[16.02.2023]
+• [Mazda] MX-5 eklenmiştir. Fiyat: 2.000.000₺
+• Güncelleme bilgi paneli eklenmiştir.
+
+[14.02.2023]
+• Ev sisteminde para gelmeme bugı düzeltilmiştir.
+
+[13.02.2023]
+• [VAZ] 2114 eklenmiştir. Fiyat: 750.000₺
+• Azerbaycan plakası eklenmiştir.
+
+[06.02.2023]
+• Taş-Kağıt-Makas modu eklenmiştir. Kullanım: /tas
+
+[26.12.2022]
+• Pizza teslimat bölgeleri arttırılmıştır.
+
+[24.12.2022]
+• Silahlardaki gereksiz sekmeme kaldırılmıştır.
+
+[23.12.2022]
+• Kumarhane yenilendi. Rulet ve BlackJack eklendi.
