@@ -1,3 +1,19 @@
+[17.02.2023]
+• Vip paneli yenilendi.
+• Diamond Vip Eklendi. Özellikleri;
+    - Görevlerde %35 daha fazla kazanç.
+    - Araç satın alımında %20 indirim.
+    - 4 ev alma limiti.
+    - 5 araç çıkarma limiti.
+    - 35 araç satın alma limiti.
+    - Sohbette elmas renginde yazma.
+    - Ücretsiz silah alma ve yetenekleri doldurma.
+    - Ücretsiz can ve zırh alma.
+    - Araç için: Zıplama, Suda Yüzme, Uçma ve Sınırsız hız.
+    - Galeriden Diamond taglı araba çıkarma şansı.
+    - Saatlik 50.000₺ maaş.
+    - Her cuma şans kasası.
+
 [16.02.2023]
 • [Mazda] MX-5 eklenmiştir. Fiyat: 2.000.000₺
 • Güncelleme bilgi paneli eklenmiştir.
