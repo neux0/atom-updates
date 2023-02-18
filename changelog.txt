@@ -1,3 +1,7 @@
+[18.02.2023]
+• Pizza görevindeki teslimat sesini (kopernik) kontrol etme özelliği eklendi.
+• Taksi görevindeki hatalı teslimat noktası düzeltildi.
+
 [17.02.2023]
 • Vip paneli yenilendi.
 • Diamond Vip Eklendi. Özellikleri;
