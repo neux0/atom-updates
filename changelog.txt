@@ -1,3 +1,10 @@
+[20.02.2023]
+• VIP üyelikler artık aylık olarak satılacaktır. Fiyatlandırma;
+  - Diamond VIP: 50AC
+  - Gold VIP: 30AC
+  - Silver VIP: 25AC
+  - Bronz VIP: 20AC
+  
 [18.02.2023]
 • Pizza görevindeki teslimat sesini (kopernik) kontrol etme özelliği eklendi.
 • Taksi görevindeki hatalı teslimat noktası düzeltildi.
