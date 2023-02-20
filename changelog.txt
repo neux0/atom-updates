@@ -1,5 +1,5 @@
 [20.02.2023]
-• Süspansiyon sistemine ön ve arka seçeneği eklenmiştir.
+• Süspansiyon(Air) sistemine ön ve arka seçeneği eklenmiştir.
 • VIP üyelikler artık aylık olarak satılacaktır. Fiyatlandırma;
   - Diamond VIP: 50AC
   - Gold VIP: 30AC
