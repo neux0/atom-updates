@@ -1,3 +1,8 @@
+[23.02.2023]
+• Yetki paneli düzenlendi.
+• Tab para bugı düzeltildi.
+• İyileştirmeler yapıldı.
+
 [20.02.2023]
 • Süspansiyon(Air) sistemine ön ve arka seçeneği eklenmiştir.
 • VIP üyelikler artık aylık olarak satılacaktır. Fiyatlandırma;
