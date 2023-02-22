@@ -1,6 +1,6 @@
 [23.02.2023]
 • Yetki paneli düzenlendi.
-• Tab para bugı düzeltildi.
+• Scoreboard para bugı düzeltildi.
 • İyileştirmeler yapıldı.
 
 [20.02.2023]
