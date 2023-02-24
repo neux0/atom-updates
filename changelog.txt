@@ -1,4 +1,7 @@
 [23.02.2023]
+• Oyun içi sohbeti Discord sunucumuz üzerinden görme eklendi.
+
+[23.02.2023]
 • Yetki paneli düzenlendi.
 • Scoreboard para bugı düzeltildi.
 • İyileştirmeler yapıldı.
