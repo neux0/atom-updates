@@ -1,6 +1,6 @@
 [25.02.2023]
 • Oyun içi sohbeti Discord sunucumuz üzerinden görme eklendi.
-• Turf ölümsüzlük bugı düzeltilmiştir.
+• Turf ölümsüzlük bugı düzeltildi.
 
 [23.02.2023]
 • Yetki paneli düzenlendi.
