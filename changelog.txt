@@ -1,14 +1,9 @@
 [01.03.2023]
-• Otobüs mesleği Atom Gaming için neux tarafından
-  sıfırdan kodlanıp, Demongo ve YunusEmre'nin 
-  katkılarıyla sunucuya eklendi. Görev hakkında;
-    - Dolmuş, Şehir içi ve Şehirler arası olarak 3
-      bölümden oluşuyor.
+• Otobüs mesleği Atom Gaming için neux tarafından sıfırdan kodlanıp, Demongo ve YunusEmre'nin katkılarıyla sunucuya eklendi. Görev hakkında;
+    - Dolmuş, Şehir içi ve Şehirler arası olarak 3 bölümden oluşuyor.
     - Magirus, IETT ve Lüks Artvin araçları kullanılıyor.
     - Gidilen durak sayısına göre level artıyor.
-    - Rota seçme özelliği ile çok veya az duraklı
-      rotaları kendi kişisel tercihinize göre
-      seçebilirsiniz.
+    - Rota seçme özelliği ile çok veya az duraklı rotaları kendi kişisel tercihinize göre seçebilirsiniz.
     - Duraklara gerçekçi isimler eklendi.
 • Kamil Koç kaldırılıp, Lüks Artvin eklendi.
 • Blip düzenlemesi yapıldı. Ayrıntılar;
