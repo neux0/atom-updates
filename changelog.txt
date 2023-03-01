@@ -12,6 +12,7 @@
   - ATM: Dolar işareti
   - Durak: D
 • Hastane level bugı düzeltildi.
+• F3(Görevler) paneline görevlerdeki kişi sayısını görme eklendi.
     
 [25.02.2023]
 • Oyun içi sohbeti Discord sunucumuz üzerinden görme eklendi.
