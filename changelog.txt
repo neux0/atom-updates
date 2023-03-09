@@ -1,3 +1,9 @@
+[09.03.2023]
+• Pizzacı Mesleği: sıralama eklendi.
+    *Sıralama eklendiği ve eskiden 3 günde max levele ulaşılabilindiği için pizzacı leveli sıfırlanmıştır.
+• Ölünce kas gitme sorunu düzeltildi.
+• Otobüs Mesleği: İETT 3. güzergah eklendi, 1. ve 2. güzergah düzeltildi.
+
 [02.03.2023]
 • Otobüs mesleğine Durak ve Kazanç sıralaması eklendi.
 • Meslek bonusu özelliği eklendi. Ne işe yarar;
