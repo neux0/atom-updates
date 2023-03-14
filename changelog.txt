@@ -1,3 +1,15 @@
+[14.03.2023]
+• Emlak sistemi eklendi. 
+    *Erişmek için Telefondaki "Emlak" uygulamasına girin.
+• Taksi mesleği yenilendi.
+    *Mesafeler kısaltıldı.
+    *Uber modu eklendi.
+    *Sıralama eklendi.
+    *Görünümü ve konumu yenilendi.
+    *Kazanç arttırıldı.
+    *Level sistemi eklendi.
+• Erişimi kolaylaştırmak için Telefon, "F5" tuşuna atandı.
+
 [09.03.2023]
 • Pizzacı Mesleği: sıralama eklendi.
     *Sıralama eklendiği ve eskiden 3 günde max levele ulaşılabilindiği için pizzacı leveli sıfırlanmıştır.
